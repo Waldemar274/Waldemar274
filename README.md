@@ -18,6 +18,8 @@
 <img alt="html" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" align="center">
 <img alt="html" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" align="center">
 <img alt="html" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="center">
+<img alt="html" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" align="center">
+<img alt="html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="center">
 
 </div>
 <br>
